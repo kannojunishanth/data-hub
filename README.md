@@ -1,2 +1,2 @@
 # data-hub
-data hub edition
+data hub edition plus
